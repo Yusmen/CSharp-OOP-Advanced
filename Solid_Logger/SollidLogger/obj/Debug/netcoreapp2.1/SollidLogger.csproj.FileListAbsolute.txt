@@ -1,0 +1,23 @@
+C:\Users\usmenzabanov\source\repos\SollidLogger\SollidLogger\bin\Debug\netcoreapp2.1\SollidLogger.deps.json
+C:\Users\usmenzabanov\source\repos\SollidLogger\SollidLogger\bin\Debug\netcoreapp2.1\SollidLogger.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\SollidLogger\SollidLogger\bin\Debug\netcoreapp2.1\SollidLogger.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\SollidLogger\SollidLogger\bin\Debug\netcoreapp2.1\SollidLogger.dll
+C:\Users\usmenzabanov\source\repos\SollidLogger\SollidLogger\bin\Debug\netcoreapp2.1\SollidLogger.pdb
+C:\Users\usmenzabanov\source\repos\SollidLogger\SollidLogger\obj\Debug\netcoreapp2.1\SollidLogger.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\SollidLogger\SollidLogger\obj\Debug\netcoreapp2.1\SollidLogger.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\SollidLogger\SollidLogger\obj\Debug\netcoreapp2.1\SollidLogger.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\SollidLogger\SollidLogger\obj\Debug\netcoreapp2.1\SollidLogger.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\SollidLogger\SollidLogger\obj\Debug\netcoreapp2.1\SollidLogger.dll
+C:\Users\usmenzabanov\source\repos\SollidLogger\SollidLogger\obj\Debug\netcoreapp2.1\SollidLogger.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\SollidLogger\SollidLogger\bin\Debug\netcoreapp2.1\SollidLogger.deps.json
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\SollidLogger\SollidLogger\bin\Debug\netcoreapp2.1\SollidLogger.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\SollidLogger\SollidLogger\bin\Debug\netcoreapp2.1\SollidLogger.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\SollidLogger\SollidLogger\bin\Debug\netcoreapp2.1\SollidLogger.dll
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\SollidLogger\SollidLogger\bin\Debug\netcoreapp2.1\SollidLogger.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\SollidLogger\SollidLogger\obj\Debug\netcoreapp2.1\SollidLogger.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\SollidLogger\SollidLogger\obj\Debug\netcoreapp2.1\SollidLogger.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\SollidLogger\SollidLogger\obj\Debug\netcoreapp2.1\SollidLogger.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\SollidLogger\SollidLogger\obj\Debug\netcoreapp2.1\SollidLogger.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\SollidLogger\SollidLogger\obj\Debug\netcoreapp2.1\SollidLogger.dll
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\SollidLogger\SollidLogger\obj\Debug\netcoreapp2.1\SollidLogger.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\SollidLogger\SollidLogger\obj\Debug\netcoreapp2.1\SollidLogger.genruntimeconfig.cache
