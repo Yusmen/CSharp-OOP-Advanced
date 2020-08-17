@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\GenericsLab\CustomTuple\bin\Debug\netcoreapp2.1\CustomTuple.deps.json
+C:\Users\usmenzabanov\source\repos\GenericsLab\CustomTuple\bin\Debug\netcoreapp2.1\CustomTuple.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\GenericsLab\CustomTuple\bin\Debug\netcoreapp2.1\CustomTuple.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\GenericsLab\CustomTuple\bin\Debug\netcoreapp2.1\CustomTuple.dll
+C:\Users\usmenzabanov\source\repos\GenericsLab\CustomTuple\bin\Debug\netcoreapp2.1\CustomTuple.pdb
+C:\Users\usmenzabanov\source\repos\GenericsLab\CustomTuple\obj\Debug\netcoreapp2.1\CustomTuple.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\GenericsLab\CustomTuple\obj\Debug\netcoreapp2.1\CustomTuple.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\GenericsLab\CustomTuple\obj\Debug\netcoreapp2.1\CustomTuple.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\GenericsLab\CustomTuple\obj\Debug\netcoreapp2.1\CustomTuple.dll
+C:\Users\usmenzabanov\source\repos\GenericsLab\CustomTuple\obj\Debug\netcoreapp2.1\CustomTuple.pdb
+C:\Users\usmenzabanov\source\repos\GenericsLab\CustomTuple\obj\Debug\netcoreapp2.1\CustomTuple.csprojAssemblyReference.cache

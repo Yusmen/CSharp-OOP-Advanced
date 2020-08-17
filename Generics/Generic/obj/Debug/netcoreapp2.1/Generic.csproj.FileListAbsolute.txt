@@ -1,0 +1,10 @@
+C:\Users\usmenzabanov\source\repos\GenericsLab\Generic\bin\Debug\netcoreapp2.1\Generic.deps.json
+C:\Users\usmenzabanov\source\repos\GenericsLab\Generic\bin\Debug\netcoreapp2.1\Generic.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\GenericsLab\Generic\bin\Debug\netcoreapp2.1\Generic.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\GenericsLab\Generic\bin\Debug\netcoreapp2.1\Generic.dll
+C:\Users\usmenzabanov\source\repos\GenericsLab\Generic\bin\Debug\netcoreapp2.1\Generic.pdb
+C:\Users\usmenzabanov\source\repos\GenericsLab\Generic\obj\Debug\netcoreapp2.1\Generic.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\GenericsLab\Generic\obj\Debug\netcoreapp2.1\Generic.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\GenericsLab\Generic\obj\Debug\netcoreapp2.1\Generic.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\GenericsLab\Generic\obj\Debug\netcoreapp2.1\Generic.dll
+C:\Users\usmenzabanov\source\repos\GenericsLab\Generic\obj\Debug\netcoreapp2.1\Generic.pdb

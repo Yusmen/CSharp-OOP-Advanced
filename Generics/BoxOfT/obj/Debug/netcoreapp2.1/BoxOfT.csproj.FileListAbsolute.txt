@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\GenericsLab\BoxOfT\bin\Debug\netcoreapp2.1\BoxOfT.deps.json
+C:\Users\usmenzabanov\source\repos\GenericsLab\BoxOfT\bin\Debug\netcoreapp2.1\BoxOfT.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\GenericsLab\BoxOfT\bin\Debug\netcoreapp2.1\BoxOfT.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\GenericsLab\BoxOfT\bin\Debug\netcoreapp2.1\BoxOfT.dll
+C:\Users\usmenzabanov\source\repos\GenericsLab\BoxOfT\bin\Debug\netcoreapp2.1\BoxOfT.pdb
+C:\Users\usmenzabanov\source\repos\GenericsLab\BoxOfT\obj\Debug\netcoreapp2.1\BoxOfT.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\GenericsLab\BoxOfT\obj\Debug\netcoreapp2.1\BoxOfT.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\GenericsLab\BoxOfT\obj\Debug\netcoreapp2.1\BoxOfT.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\GenericsLab\BoxOfT\obj\Debug\netcoreapp2.1\BoxOfT.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\GenericsLab\BoxOfT\obj\Debug\netcoreapp2.1\BoxOfT.dll
+C:\Users\usmenzabanov\source\repos\GenericsLab\BoxOfT\obj\Debug\netcoreapp2.1\BoxOfT.pdb

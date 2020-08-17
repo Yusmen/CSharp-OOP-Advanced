@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "HSeiHb5TL785NTnvJfV+RNub9GmA2puFkpZIW2TZ78142z5baJr+kEL2/5fQuYRKpH0L+QaVi7dLO8xSFgvafg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Advanced\\Zadachi_Resheniq\\GenericsLab\\BoxOfT\\BoxOfT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yusmen\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Yusmen\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Yusmen\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Yusmen\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Yusmen\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Yusmen\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\Yusmen\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

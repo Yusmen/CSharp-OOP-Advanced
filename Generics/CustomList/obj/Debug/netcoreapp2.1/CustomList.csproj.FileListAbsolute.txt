@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\GenericsLab\CustomList\obj\Debug\netcoreapp2.1\CustomList.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\GenericsLab\CustomList\obj\Debug\netcoreapp2.1\CustomList.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\GenericsLab\CustomList\obj\Debug\netcoreapp2.1\CustomList.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\GenericsLab\CustomList\bin\Debug\netcoreapp2.1\CustomList.deps.json
+C:\Users\usmenzabanov\source\repos\GenericsLab\CustomList\bin\Debug\netcoreapp2.1\CustomList.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\GenericsLab\CustomList\bin\Debug\netcoreapp2.1\CustomList.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\GenericsLab\CustomList\bin\Debug\netcoreapp2.1\CustomList.dll
+C:\Users\usmenzabanov\source\repos\GenericsLab\CustomList\bin\Debug\netcoreapp2.1\CustomList.pdb
+C:\Users\usmenzabanov\source\repos\GenericsLab\CustomList\obj\Debug\netcoreapp2.1\CustomList.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\GenericsLab\CustomList\obj\Debug\netcoreapp2.1\CustomList.dll
+C:\Users\usmenzabanov\source\repos\GenericsLab\CustomList\obj\Debug\netcoreapp2.1\CustomList.pdb
