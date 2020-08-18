@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\IteratorsComparatorsLab\ComparingObjects\bin\Debug\netcoreapp2.1\ComparingObjects.deps.json
+C:\Users\usmenzabanov\source\repos\IteratorsComparatorsLab\ComparingObjects\bin\Debug\netcoreapp2.1\ComparingObjects.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\IteratorsComparatorsLab\ComparingObjects\bin\Debug\netcoreapp2.1\ComparingObjects.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\IteratorsComparatorsLab\ComparingObjects\bin\Debug\netcoreapp2.1\ComparingObjects.dll
+C:\Users\usmenzabanov\source\repos\IteratorsComparatorsLab\ComparingObjects\bin\Debug\netcoreapp2.1\ComparingObjects.pdb
+C:\Users\usmenzabanov\source\repos\IteratorsComparatorsLab\ComparingObjects\obj\Debug\netcoreapp2.1\ComparingObjects.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\IteratorsComparatorsLab\ComparingObjects\obj\Debug\netcoreapp2.1\ComparingObjects.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\IteratorsComparatorsLab\ComparingObjects\obj\Debug\netcoreapp2.1\ComparingObjects.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\IteratorsComparatorsLab\ComparingObjects\obj\Debug\netcoreapp2.1\ComparingObjects.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\IteratorsComparatorsLab\ComparingObjects\obj\Debug\netcoreapp2.1\ComparingObjects.dll
+C:\Users\usmenzabanov\source\repos\IteratorsComparatorsLab\ComparingObjects\obj\Debug\netcoreapp2.1\ComparingObjects.pdb

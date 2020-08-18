@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\IteratorsComparatorsLab\ListyIterator\bin\Debug\netcoreapp2.1\ListyIterator.deps.json
+C:\Users\usmenzabanov\source\repos\IteratorsComparatorsLab\ListyIterator\bin\Debug\netcoreapp2.1\ListyIterator.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\IteratorsComparatorsLab\ListyIterator\bin\Debug\netcoreapp2.1\ListyIterator.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\IteratorsComparatorsLab\ListyIterator\bin\Debug\netcoreapp2.1\ListyIterator.dll
+C:\Users\usmenzabanov\source\repos\IteratorsComparatorsLab\ListyIterator\bin\Debug\netcoreapp2.1\ListyIterator.pdb
+C:\Users\usmenzabanov\source\repos\IteratorsComparatorsLab\ListyIterator\obj\Debug\netcoreapp2.1\ListyIterator.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\IteratorsComparatorsLab\ListyIterator\obj\Debug\netcoreapp2.1\ListyIterator.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\IteratorsComparatorsLab\ListyIterator\obj\Debug\netcoreapp2.1\ListyIterator.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\IteratorsComparatorsLab\ListyIterator\obj\Debug\netcoreapp2.1\ListyIterator.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\IteratorsComparatorsLab\ListyIterator\obj\Debug\netcoreapp2.1\ListyIterator.dll
+C:\Users\usmenzabanov\source\repos\IteratorsComparatorsLab\ListyIterator\obj\Debug\netcoreapp2.1\ListyIterator.pdb

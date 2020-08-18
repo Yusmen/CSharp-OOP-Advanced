@@ -1,0 +1,10 @@
+C:\Users\usmenzabanov\source\repos\IteratorsComparatorsLab\Froggy\bin\Debug\netcoreapp2.1\Froggy.deps.json
+C:\Users\usmenzabanov\source\repos\IteratorsComparatorsLab\Froggy\bin\Debug\netcoreapp2.1\Froggy.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\IteratorsComparatorsLab\Froggy\bin\Debug\netcoreapp2.1\Froggy.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\IteratorsComparatorsLab\Froggy\bin\Debug\netcoreapp2.1\Froggy.dll
+C:\Users\usmenzabanov\source\repos\IteratorsComparatorsLab\Froggy\bin\Debug\netcoreapp2.1\Froggy.pdb
+C:\Users\usmenzabanov\source\repos\IteratorsComparatorsLab\Froggy\obj\Debug\netcoreapp2.1\Froggy.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\IteratorsComparatorsLab\Froggy\obj\Debug\netcoreapp2.1\Froggy.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\IteratorsComparatorsLab\Froggy\obj\Debug\netcoreapp2.1\Froggy.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\IteratorsComparatorsLab\Froggy\obj\Debug\netcoreapp2.1\Froggy.dll
+C:\Users\usmenzabanov\source\repos\IteratorsComparatorsLab\Froggy\obj\Debug\netcoreapp2.1\Froggy.pdb
