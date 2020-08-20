@@ -1,0 +1,37 @@
+C:\Users\usmenzabanov\source\repos\ExercisesUnitTesting\Database.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\usmenzabanov\source\repos\ExercisesUnitTesting\Database.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\usmenzabanov\source\repos\ExercisesUnitTesting\Database.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\usmenzabanov\source\repos\ExercisesUnitTesting\Database.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\usmenzabanov\source\repos\ExercisesUnitTesting\Database.Tests\bin\Debug\netcoreapp2.1\Database.Tests.deps.json
+C:\Users\usmenzabanov\source\repos\ExercisesUnitTesting\Database.Tests\bin\Debug\netcoreapp2.1\Database.Tests.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\ExercisesUnitTesting\Database.Tests\bin\Debug\netcoreapp2.1\Database.Tests.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\ExercisesUnitTesting\Database.Tests\bin\Debug\netcoreapp2.1\Database.Tests.dll
+C:\Users\usmenzabanov\source\repos\ExercisesUnitTesting\Database.Tests\bin\Debug\netcoreapp2.1\Database.Tests.pdb
+C:\Users\usmenzabanov\source\repos\ExercisesUnitTesting\Database.Tests\bin\Debug\netcoreapp2.1\Database.dll
+C:\Users\usmenzabanov\source\repos\ExercisesUnitTesting\Database.Tests\bin\Debug\netcoreapp2.1\Database.pdb
+C:\Users\usmenzabanov\source\repos\ExercisesUnitTesting\Database.Tests\obj\Debug\netcoreapp2.1\Database.Tests.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\ExercisesUnitTesting\Database.Tests\obj\Debug\netcoreapp2.1\Database.Tests.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\ExercisesUnitTesting\Database.Tests\obj\Debug\netcoreapp2.1\Database.Tests.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\ExercisesUnitTesting\Database.Tests\obj\Debug\netcoreapp2.1\Database.Tests.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\ExercisesUnitTesting\Database.Tests\obj\Debug\netcoreapp2.1\Database.Tests.csproj.CopyComplete
+C:\Users\usmenzabanov\source\repos\ExercisesUnitTesting\Database.Tests\obj\Debug\netcoreapp2.1\Database.Tests.dll
+C:\Users\usmenzabanov\source\repos\ExercisesUnitTesting\Database.Tests\obj\Debug\netcoreapp2.1\Database.Tests.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ExercisesUnitTesting\Database.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ExercisesUnitTesting\Database.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ExercisesUnitTesting\Database.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ExercisesUnitTesting\Database.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ExercisesUnitTesting\Database.Tests\bin\Debug\netcoreapp2.1\Database.Tests.deps.json
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ExercisesUnitTesting\Database.Tests\bin\Debug\netcoreapp2.1\Database.Tests.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ExercisesUnitTesting\Database.Tests\bin\Debug\netcoreapp2.1\Database.Tests.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ExercisesUnitTesting\Database.Tests\bin\Debug\netcoreapp2.1\Database.Tests.dll
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ExercisesUnitTesting\Database.Tests\bin\Debug\netcoreapp2.1\Database.Tests.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ExercisesUnitTesting\Database.Tests\bin\Debug\netcoreapp2.1\Database.dll
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ExercisesUnitTesting\Database.Tests\bin\Debug\netcoreapp2.1\Database.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ExercisesUnitTesting\Database.Tests\obj\Debug\netcoreapp2.1\Database.Tests.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ExercisesUnitTesting\Database.Tests\obj\Debug\netcoreapp2.1\Database.Tests.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ExercisesUnitTesting\Database.Tests\obj\Debug\netcoreapp2.1\Database.Tests.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ExercisesUnitTesting\Database.Tests\obj\Debug\netcoreapp2.1\Database.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ExercisesUnitTesting\Database.Tests\obj\Debug\netcoreapp2.1\Database.Tests.csproj.CopyComplete
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ExercisesUnitTesting\Database.Tests\obj\Debug\netcoreapp2.1\Database.Tests.dll
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ExercisesUnitTesting\Database.Tests\obj\Debug\netcoreapp2.1\Database.Tests.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ExercisesUnitTesting\Database.Tests\obj\Debug\netcoreapp2.1\Database.Tests.genruntimeconfig.cache
