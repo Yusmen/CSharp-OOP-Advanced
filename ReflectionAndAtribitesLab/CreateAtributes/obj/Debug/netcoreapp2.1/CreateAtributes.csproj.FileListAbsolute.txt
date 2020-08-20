@@ -1,0 +1,10 @@
+C:\Users\usmenzabanov\source\repos\ReflectionAndAtribitesLab\CreateAtributes\bin\Debug\netcoreapp2.1\CreateAtributes.deps.json
+C:\Users\usmenzabanov\source\repos\ReflectionAndAtribitesLab\CreateAtributes\bin\Debug\netcoreapp2.1\CreateAtributes.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\ReflectionAndAtribitesLab\CreateAtributes\bin\Debug\netcoreapp2.1\CreateAtributes.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\ReflectionAndAtribitesLab\CreateAtributes\bin\Debug\netcoreapp2.1\CreateAtributes.dll
+C:\Users\usmenzabanov\source\repos\ReflectionAndAtribitesLab\CreateAtributes\bin\Debug\netcoreapp2.1\CreateAtributes.pdb
+C:\Users\usmenzabanov\source\repos\ReflectionAndAtribitesLab\CreateAtributes\obj\Debug\netcoreapp2.1\CreateAtributes.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\ReflectionAndAtribitesLab\CreateAtributes\obj\Debug\netcoreapp2.1\CreateAtributes.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\ReflectionAndAtribitesLab\CreateAtributes\obj\Debug\netcoreapp2.1\CreateAtributes.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\ReflectionAndAtribitesLab\CreateAtributes\obj\Debug\netcoreapp2.1\CreateAtributes.dll
+C:\Users\usmenzabanov\source\repos\ReflectionAndAtribitesLab\CreateAtributes\obj\Debug\netcoreapp2.1\CreateAtributes.pdb

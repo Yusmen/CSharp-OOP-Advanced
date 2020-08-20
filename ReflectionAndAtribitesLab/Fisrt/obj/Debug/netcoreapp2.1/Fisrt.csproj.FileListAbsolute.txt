@@ -1,0 +1,23 @@
+C:\Users\usmenzabanov\source\repos\ReflectionAndAtribitesLab\Fisrt\obj\Debug\netcoreapp2.1\Fisrt.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\ReflectionAndAtribitesLab\Fisrt\obj\Debug\netcoreapp2.1\Fisrt.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\ReflectionAndAtribitesLab\Fisrt\obj\Debug\netcoreapp2.1\Fisrt.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\ReflectionAndAtribitesLab\Fisrt\obj\Debug\netcoreapp2.1\Fisrt.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\ReflectionAndAtribitesLab\Fisrt\bin\Debug\netcoreapp2.1\Fisrt.deps.json
+C:\Users\usmenzabanov\source\repos\ReflectionAndAtribitesLab\Fisrt\bin\Debug\netcoreapp2.1\Fisrt.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\ReflectionAndAtribitesLab\Fisrt\bin\Debug\netcoreapp2.1\Fisrt.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\ReflectionAndAtribitesLab\Fisrt\bin\Debug\netcoreapp2.1\Fisrt.dll
+C:\Users\usmenzabanov\source\repos\ReflectionAndAtribitesLab\Fisrt\bin\Debug\netcoreapp2.1\Fisrt.pdb
+C:\Users\usmenzabanov\source\repos\ReflectionAndAtribitesLab\Fisrt\obj\Debug\netcoreapp2.1\Fisrt.dll
+C:\Users\usmenzabanov\source\repos\ReflectionAndAtribitesLab\Fisrt\obj\Debug\netcoreapp2.1\Fisrt.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ReflectionAndAtribitesLab\Fisrt\bin\Debug\netcoreapp2.1\Fisrt.deps.json
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ReflectionAndAtribitesLab\Fisrt\bin\Debug\netcoreapp2.1\Fisrt.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ReflectionAndAtribitesLab\Fisrt\bin\Debug\netcoreapp2.1\Fisrt.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ReflectionAndAtribitesLab\Fisrt\bin\Debug\netcoreapp2.1\Fisrt.dll
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ReflectionAndAtribitesLab\Fisrt\bin\Debug\netcoreapp2.1\Fisrt.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ReflectionAndAtribitesLab\Fisrt\obj\Debug\netcoreapp2.1\Fisrt.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ReflectionAndAtribitesLab\Fisrt\obj\Debug\netcoreapp2.1\Fisrt.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ReflectionAndAtribitesLab\Fisrt\obj\Debug\netcoreapp2.1\Fisrt.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ReflectionAndAtribitesLab\Fisrt\obj\Debug\netcoreapp2.1\Fisrt.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ReflectionAndAtribitesLab\Fisrt\obj\Debug\netcoreapp2.1\Fisrt.dll
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ReflectionAndAtribitesLab\Fisrt\obj\Debug\netcoreapp2.1\Fisrt.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ReflectionAndAtribitesLab\Fisrt\obj\Debug\netcoreapp2.1\Fisrt.genruntimeconfig.cache

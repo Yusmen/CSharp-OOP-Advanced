@@ -1,0 +1,23 @@
+C:\Users\usmenzabanov\source\repos\ReflectionAndAtribitesLab\Stealer\bin\Debug\netcoreapp2.1\Stealer.deps.json
+C:\Users\usmenzabanov\source\repos\ReflectionAndAtribitesLab\Stealer\bin\Debug\netcoreapp2.1\Stealer.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\ReflectionAndAtribitesLab\Stealer\bin\Debug\netcoreapp2.1\Stealer.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\ReflectionAndAtribitesLab\Stealer\bin\Debug\netcoreapp2.1\Stealer.dll
+C:\Users\usmenzabanov\source\repos\ReflectionAndAtribitesLab\Stealer\bin\Debug\netcoreapp2.1\Stealer.pdb
+C:\Users\usmenzabanov\source\repos\ReflectionAndAtribitesLab\Stealer\obj\Debug\netcoreapp2.1\Stealer.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\ReflectionAndAtribitesLab\Stealer\obj\Debug\netcoreapp2.1\Stealer.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\ReflectionAndAtribitesLab\Stealer\obj\Debug\netcoreapp2.1\Stealer.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\ReflectionAndAtribitesLab\Stealer\obj\Debug\netcoreapp2.1\Stealer.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\ReflectionAndAtribitesLab\Stealer\obj\Debug\netcoreapp2.1\Stealer.dll
+C:\Users\usmenzabanov\source\repos\ReflectionAndAtribitesLab\Stealer\obj\Debug\netcoreapp2.1\Stealer.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ReflectionAndAtribitesLab\Stealer\bin\Debug\netcoreapp2.1\Stealer.deps.json
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ReflectionAndAtribitesLab\Stealer\bin\Debug\netcoreapp2.1\Stealer.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ReflectionAndAtribitesLab\Stealer\bin\Debug\netcoreapp2.1\Stealer.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ReflectionAndAtribitesLab\Stealer\bin\Debug\netcoreapp2.1\Stealer.dll
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ReflectionAndAtribitesLab\Stealer\bin\Debug\netcoreapp2.1\Stealer.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ReflectionAndAtribitesLab\Stealer\obj\Debug\netcoreapp2.1\Stealer.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ReflectionAndAtribitesLab\Stealer\obj\Debug\netcoreapp2.1\Stealer.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ReflectionAndAtribitesLab\Stealer\obj\Debug\netcoreapp2.1\Stealer.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ReflectionAndAtribitesLab\Stealer\obj\Debug\netcoreapp2.1\Stealer.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ReflectionAndAtribitesLab\Stealer\obj\Debug\netcoreapp2.1\Stealer.dll
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ReflectionAndAtribitesLab\Stealer\obj\Debug\netcoreapp2.1\Stealer.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ReflectionAndAtribitesLab\Stealer\obj\Debug\netcoreapp2.1\Stealer.genruntimeconfig.cache
