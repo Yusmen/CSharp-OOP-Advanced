@@ -1,0 +1,23 @@
+C:\Users\usmenzabanov\Desktop\Harvest\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.deps.json
+C:\Users\usmenzabanov\Desktop\Harvest\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.runtimeconfig.json
+C:\Users\usmenzabanov\Desktop\Harvest\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.runtimeconfig.dev.json
+C:\Users\usmenzabanov\Desktop\Harvest\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.dll
+C:\Users\usmenzabanov\Desktop\Harvest\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.pdb
+C:\Users\usmenzabanov\Desktop\Harvest\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\Desktop\Harvest\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\Desktop\Harvest\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\Desktop\Harvest\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.AssemblyInfo.cs
+C:\Users\usmenzabanov\Desktop\Harvest\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.dll
+C:\Users\usmenzabanov\Desktop\Harvest\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.deps.json
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.dll
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.dll
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+C:\Users\usmenzabanov\Desktop\Harvest\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.deps.json
+C:\Users\usmenzabanov\Desktop\Harvest\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.runtimeconfig.json
+C:\Users\usmenzabanov\Desktop\Harvest\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.runtimeconfig.dev.json
+C:\Users\usmenzabanov\Desktop\Harvest\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.dll
+C:\Users\usmenzabanov\Desktop\Harvest\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.pdb
+C:\Users\usmenzabanov\Desktop\Harvest\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\Desktop\Harvest\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\Desktop\Harvest\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\Desktop\Harvest\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.AssemblyInfo.cs
+C:\Users\usmenzabanov\Desktop\Harvest\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.dll
+C:\Users\usmenzabanov\Desktop\Harvest\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.deps.json
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.dll
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.dll
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.genruntimeconfig.cache

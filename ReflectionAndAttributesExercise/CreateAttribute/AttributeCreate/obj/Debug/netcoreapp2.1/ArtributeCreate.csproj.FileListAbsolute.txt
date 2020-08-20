@@ -1,0 +1,23 @@
+C:\Users\usmenzabanov\Desktop\Harvest\ArtributeCreate\bin\Debug\netcoreapp2.1\ArtributeCreate.deps.json
+C:\Users\usmenzabanov\Desktop\Harvest\ArtributeCreate\bin\Debug\netcoreapp2.1\ArtributeCreate.runtimeconfig.json
+C:\Users\usmenzabanov\Desktop\Harvest\ArtributeCreate\bin\Debug\netcoreapp2.1\ArtributeCreate.runtimeconfig.dev.json
+C:\Users\usmenzabanov\Desktop\Harvest\ArtributeCreate\bin\Debug\netcoreapp2.1\ArtributeCreate.dll
+C:\Users\usmenzabanov\Desktop\Harvest\ArtributeCreate\bin\Debug\netcoreapp2.1\ArtributeCreate.pdb
+C:\Users\usmenzabanov\Desktop\Harvest\ArtributeCreate\obj\Debug\netcoreapp2.1\ArtributeCreate.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\Desktop\Harvest\ArtributeCreate\obj\Debug\netcoreapp2.1\ArtributeCreate.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\Desktop\Harvest\ArtributeCreate\obj\Debug\netcoreapp2.1\ArtributeCreate.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\Desktop\Harvest\ArtributeCreate\obj\Debug\netcoreapp2.1\ArtributeCreate.AssemblyInfo.cs
+C:\Users\usmenzabanov\Desktop\Harvest\ArtributeCreate\obj\Debug\netcoreapp2.1\ArtributeCreate.dll
+C:\Users\usmenzabanov\Desktop\Harvest\ArtributeCreate\obj\Debug\netcoreapp2.1\ArtributeCreate.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\ArtributeCreate\bin\Debug\netcoreapp2.1\ArtributeCreate.deps.json
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\ArtributeCreate\bin\Debug\netcoreapp2.1\ArtributeCreate.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\ArtributeCreate\bin\Debug\netcoreapp2.1\ArtributeCreate.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\ArtributeCreate\bin\Debug\netcoreapp2.1\ArtributeCreate.dll
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\ArtributeCreate\bin\Debug\netcoreapp2.1\ArtributeCreate.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\ArtributeCreate\obj\Debug\netcoreapp2.1\ArtributeCreate.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\ArtributeCreate\obj\Debug\netcoreapp2.1\ArtributeCreate.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\ArtributeCreate\obj\Debug\netcoreapp2.1\ArtributeCreate.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\ArtributeCreate\obj\Debug\netcoreapp2.1\ArtributeCreate.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\ArtributeCreate\obj\Debug\netcoreapp2.1\ArtributeCreate.dll
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\ArtributeCreate\obj\Debug\netcoreapp2.1\ArtributeCreate.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\ArtributeCreate\obj\Debug\netcoreapp2.1\ArtributeCreate.genruntimeconfig.cache

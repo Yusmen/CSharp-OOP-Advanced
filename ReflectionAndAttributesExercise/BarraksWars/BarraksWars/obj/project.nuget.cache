@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "cISzFJXlLxDN36IG1QzyTHqc1F+zBnTCMG68bqI3y0znSCUw0MOIT3pp6Ess4p8IhLGPW9bq3Eav5uDfBvmGVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Advanced\\Harvest\\P03_BarraksWars\\BarraksWars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yusmen\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Yusmen\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Yusmen\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Yusmen\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Yusmen\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Yusmen\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "7rL9OGDii3/OxNGc6ma36O5J+f0nXwmnfExwnUVedixPVODwH1GWxgnITYaj13szibCJBEp6Qs1qPevcbNQ1ng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Advanced\\Harvest\\P02_BlackBoxInteger\\P02_BlackBoxInteger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yusmen\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Yusmen\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Yusmen\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Yusmen\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Yusmen\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Yusmen\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

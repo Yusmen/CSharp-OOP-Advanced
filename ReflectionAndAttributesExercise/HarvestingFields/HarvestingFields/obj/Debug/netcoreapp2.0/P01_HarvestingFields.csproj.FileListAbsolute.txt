@@ -1,0 +1,23 @@
+C:\Users\usmenzabanov\Desktop\Harvest\P01_HarvestingFields\bin\Debug\netcoreapp2.0\P01_HarvestingFields.deps.json
+C:\Users\usmenzabanov\Desktop\Harvest\P01_HarvestingFields\bin\Debug\netcoreapp2.0\P01_HarvestingFields.runtimeconfig.json
+C:\Users\usmenzabanov\Desktop\Harvest\P01_HarvestingFields\bin\Debug\netcoreapp2.0\P01_HarvestingFields.runtimeconfig.dev.json
+C:\Users\usmenzabanov\Desktop\Harvest\P01_HarvestingFields\bin\Debug\netcoreapp2.0\P01_HarvestingFields.dll
+C:\Users\usmenzabanov\Desktop\Harvest\P01_HarvestingFields\bin\Debug\netcoreapp2.0\P01_HarvestingFields.pdb
+C:\Users\usmenzabanov\Desktop\Harvest\P01_HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\Desktop\Harvest\P01_HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\Desktop\Harvest\P01_HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\Desktop\Harvest\P01_HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.AssemblyInfo.cs
+C:\Users\usmenzabanov\Desktop\Harvest\P01_HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.dll
+C:\Users\usmenzabanov\Desktop\Harvest\P01_HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\P01_HarvestingFields\bin\Debug\netcoreapp2.0\P01_HarvestingFields.deps.json
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\P01_HarvestingFields\bin\Debug\netcoreapp2.0\P01_HarvestingFields.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\P01_HarvestingFields\bin\Debug\netcoreapp2.0\P01_HarvestingFields.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\P01_HarvestingFields\bin\Debug\netcoreapp2.0\P01_HarvestingFields.dll
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\P01_HarvestingFields\bin\Debug\netcoreapp2.0\P01_HarvestingFields.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\P01_HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\P01_HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\P01_HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\P01_HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\P01_HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.dll
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\P01_HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Harvest\P01_HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.genruntimeconfig.cache
