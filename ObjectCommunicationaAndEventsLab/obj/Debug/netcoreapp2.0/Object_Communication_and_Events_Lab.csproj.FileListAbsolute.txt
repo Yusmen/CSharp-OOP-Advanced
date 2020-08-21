@@ -1,0 +1,23 @@
+C:\Users\usmenzabanov\Desktop\Events\bin\Debug\netcoreapp2.0\Object_Communication_and_Events_Lab.deps.json
+C:\Users\usmenzabanov\Desktop\Events\bin\Debug\netcoreapp2.0\Object_Communication_and_Events_Lab.runtimeconfig.json
+C:\Users\usmenzabanov\Desktop\Events\bin\Debug\netcoreapp2.0\Object_Communication_and_Events_Lab.runtimeconfig.dev.json
+C:\Users\usmenzabanov\Desktop\Events\bin\Debug\netcoreapp2.0\Object_Communication_and_Events_Lab.dll
+C:\Users\usmenzabanov\Desktop\Events\bin\Debug\netcoreapp2.0\Object_Communication_and_Events_Lab.pdb
+C:\Users\usmenzabanov\Desktop\Events\obj\Debug\netcoreapp2.0\Object_Communication_and_Events_Lab.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\Desktop\Events\obj\Debug\netcoreapp2.0\Object_Communication_and_Events_Lab.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\Desktop\Events\obj\Debug\netcoreapp2.0\Object_Communication_and_Events_Lab.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\Desktop\Events\obj\Debug\netcoreapp2.0\Object_Communication_and_Events_Lab.AssemblyInfo.cs
+C:\Users\usmenzabanov\Desktop\Events\obj\Debug\netcoreapp2.0\Object_Communication_and_Events_Lab.dll
+C:\Users\usmenzabanov\Desktop\Events\obj\Debug\netcoreapp2.0\Object_Communication_and_Events_Lab.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Events\bin\Debug\netcoreapp2.0\Object_Communication_and_Events_Lab.deps.json
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Events\bin\Debug\netcoreapp2.0\Object_Communication_and_Events_Lab.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Events\bin\Debug\netcoreapp2.0\Object_Communication_and_Events_Lab.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Events\bin\Debug\netcoreapp2.0\Object_Communication_and_Events_Lab.dll
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Events\bin\Debug\netcoreapp2.0\Object_Communication_and_Events_Lab.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Events\obj\Debug\netcoreapp2.0\Object_Communication_and_Events_Lab.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Events\obj\Debug\netcoreapp2.0\Object_Communication_and_Events_Lab.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Events\obj\Debug\netcoreapp2.0\Object_Communication_and_Events_Lab.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Events\obj\Debug\netcoreapp2.0\Object_Communication_and_Events_Lab.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Events\obj\Debug\netcoreapp2.0\Object_Communication_and_Events_Lab.dll
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Events\obj\Debug\netcoreapp2.0\Object_Communication_and_Events_Lab.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Events\obj\Debug\netcoreapp2.0\Object_Communication_and_Events_Lab.genruntimeconfig.cache

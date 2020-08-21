@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Object_Communication_and_Events_Lab/1.0.0": {
+        "runtime": {
+          "Object_Communication_and_Events_Lab.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Object_Communication_and_Events_Lab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
