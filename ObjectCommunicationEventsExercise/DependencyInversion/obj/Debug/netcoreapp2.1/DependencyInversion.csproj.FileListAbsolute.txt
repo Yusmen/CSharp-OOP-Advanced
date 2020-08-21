@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\DependencyInversion\bin\Debug\netcoreapp2.1\DependencyInversion.deps.json
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\DependencyInversion\bin\Debug\netcoreapp2.1\DependencyInversion.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\DependencyInversion\bin\Debug\netcoreapp2.1\DependencyInversion.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\DependencyInversion\bin\Debug\netcoreapp2.1\DependencyInversion.dll
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\DependencyInversion\bin\Debug\netcoreapp2.1\DependencyInversion.pdb
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\DependencyInversion\obj\Debug\netcoreapp2.1\DependencyInversion.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\DependencyInversion\obj\Debug\netcoreapp2.1\DependencyInversion.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\DependencyInversion\obj\Debug\netcoreapp2.1\DependencyInversion.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\DependencyInversion\obj\Debug\netcoreapp2.1\DependencyInversion.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\DependencyInversion\obj\Debug\netcoreapp2.1\DependencyInversion.dll
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\DependencyInversion\obj\Debug\netcoreapp2.1\DependencyInversion.pdb

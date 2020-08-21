@@ -1,0 +1,12 @@
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ObjectCommunicationEventsExercise\DesigPatterns\bin\Debug\netcoreapp2.1\DesignPatterns.deps.json
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ObjectCommunicationEventsExercise\DesigPatterns\bin\Debug\netcoreapp2.1\DesignPatterns.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ObjectCommunicationEventsExercise\DesigPatterns\bin\Debug\netcoreapp2.1\DesignPatterns.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ObjectCommunicationEventsExercise\DesigPatterns\bin\Debug\netcoreapp2.1\DesignPatterns.dll
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ObjectCommunicationEventsExercise\DesigPatterns\bin\Debug\netcoreapp2.1\DesignPatterns.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ObjectCommunicationEventsExercise\DesigPatterns\obj\Debug\netcoreapp2.1\DesignPatterns.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ObjectCommunicationEventsExercise\DesigPatterns\obj\Debug\netcoreapp2.1\DesignPatterns.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ObjectCommunicationEventsExercise\DesigPatterns\obj\Debug\netcoreapp2.1\DesignPatterns.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ObjectCommunicationEventsExercise\DesigPatterns\obj\Debug\netcoreapp2.1\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ObjectCommunicationEventsExercise\DesigPatterns\obj\Debug\netcoreapp2.1\DesignPatterns.dll
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ObjectCommunicationEventsExercise\DesigPatterns\obj\Debug\netcoreapp2.1\DesignPatterns.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ObjectCommunicationEventsExercise\DesigPatterns\obj\Debug\netcoreapp2.1\DesignPatterns.genruntimeconfig.cache

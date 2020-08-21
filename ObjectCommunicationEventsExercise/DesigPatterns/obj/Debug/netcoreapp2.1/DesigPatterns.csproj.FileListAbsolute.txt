@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\DesigPatterns\obj\Debug\netcoreapp2.1\DesigPatterns.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\DesigPatterns\obj\Debug\netcoreapp2.1\DesigPatterns.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\DesigPatterns\obj\Debug\netcoreapp2.1\DesigPatterns.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\DesigPatterns\obj\Debug\netcoreapp2.1\DesigPatterns.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\DesigPatterns\bin\Debug\netcoreapp2.1\DesigPatterns.deps.json
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\DesigPatterns\bin\Debug\netcoreapp2.1\DesigPatterns.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\DesigPatterns\bin\Debug\netcoreapp2.1\DesigPatterns.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\DesigPatterns\bin\Debug\netcoreapp2.1\DesigPatterns.dll
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\DesigPatterns\bin\Debug\netcoreapp2.1\DesigPatterns.pdb
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\DesigPatterns\obj\Debug\netcoreapp2.1\DesigPatterns.dll
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\DesigPatterns\obj\Debug\netcoreapp2.1\DesigPatterns.pdb

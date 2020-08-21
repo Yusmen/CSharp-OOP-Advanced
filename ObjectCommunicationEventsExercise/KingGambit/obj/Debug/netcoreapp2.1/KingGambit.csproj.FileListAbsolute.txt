@@ -1,0 +1,23 @@
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\KingGambit\bin\Debug\netcoreapp2.1\KingGambit.deps.json
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\KingGambit\bin\Debug\netcoreapp2.1\KingGambit.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\KingGambit\bin\Debug\netcoreapp2.1\KingGambit.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\KingGambit\bin\Debug\netcoreapp2.1\KingGambit.dll
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\KingGambit\bin\Debug\netcoreapp2.1\KingGambit.pdb
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\KingGambit\obj\Debug\netcoreapp2.1\KingGambit.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\KingGambit\obj\Debug\netcoreapp2.1\KingGambit.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\KingGambit\obj\Debug\netcoreapp2.1\KingGambit.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\KingGambit\obj\Debug\netcoreapp2.1\KingGambit.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\KingGambit\obj\Debug\netcoreapp2.1\KingGambit.dll
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\KingGambit\obj\Debug\netcoreapp2.1\KingGambit.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ObjectCommunicationEventsExercise\KingGambit\bin\Debug\netcoreapp2.1\KingGambit.deps.json
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ObjectCommunicationEventsExercise\KingGambit\bin\Debug\netcoreapp2.1\KingGambit.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ObjectCommunicationEventsExercise\KingGambit\bin\Debug\netcoreapp2.1\KingGambit.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ObjectCommunicationEventsExercise\KingGambit\bin\Debug\netcoreapp2.1\KingGambit.dll
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ObjectCommunicationEventsExercise\KingGambit\bin\Debug\netcoreapp2.1\KingGambit.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ObjectCommunicationEventsExercise\KingGambit\obj\Debug\netcoreapp2.1\KingGambit.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ObjectCommunicationEventsExercise\KingGambit\obj\Debug\netcoreapp2.1\KingGambit.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ObjectCommunicationEventsExercise\KingGambit\obj\Debug\netcoreapp2.1\KingGambit.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ObjectCommunicationEventsExercise\KingGambit\obj\Debug\netcoreapp2.1\KingGambit.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ObjectCommunicationEventsExercise\KingGambit\obj\Debug\netcoreapp2.1\KingGambit.dll
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ObjectCommunicationEventsExercise\KingGambit\obj\Debug\netcoreapp2.1\KingGambit.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ObjectCommunicationEventsExercise\KingGambit\obj\Debug\netcoreapp2.1\KingGambit.genruntimeconfig.cache

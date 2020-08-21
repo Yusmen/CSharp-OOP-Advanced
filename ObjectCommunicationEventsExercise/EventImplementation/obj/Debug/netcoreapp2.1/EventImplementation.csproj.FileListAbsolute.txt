@@ -1,0 +1,23 @@
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\EventImplementation\bin\Debug\netcoreapp2.1\EventImplementation.deps.json
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\EventImplementation\bin\Debug\netcoreapp2.1\EventImplementation.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\EventImplementation\bin\Debug\netcoreapp2.1\EventImplementation.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\EventImplementation\bin\Debug\netcoreapp2.1\EventImplementation.dll
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\EventImplementation\bin\Debug\netcoreapp2.1\EventImplementation.pdb
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\EventImplementation\obj\Debug\netcoreapp2.1\EventImplementation.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\EventImplementation\obj\Debug\netcoreapp2.1\EventImplementation.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\EventImplementation\obj\Debug\netcoreapp2.1\EventImplementation.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\EventImplementation\obj\Debug\netcoreapp2.1\EventImplementation.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\EventImplementation\obj\Debug\netcoreapp2.1\EventImplementation.dll
+C:\Users\usmenzabanov\source\repos\ObjectCommunicationEventsLab\EventImplementation\obj\Debug\netcoreapp2.1\EventImplementation.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ObjectCommunicationEventsExercise\EventImplementation\bin\Debug\netcoreapp2.1\EventImplementation.deps.json
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ObjectCommunicationEventsExercise\EventImplementation\bin\Debug\netcoreapp2.1\EventImplementation.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ObjectCommunicationEventsExercise\EventImplementation\bin\Debug\netcoreapp2.1\EventImplementation.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ObjectCommunicationEventsExercise\EventImplementation\bin\Debug\netcoreapp2.1\EventImplementation.dll
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ObjectCommunicationEventsExercise\EventImplementation\bin\Debug\netcoreapp2.1\EventImplementation.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ObjectCommunicationEventsExercise\EventImplementation\obj\Debug\netcoreapp2.1\EventImplementation.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ObjectCommunicationEventsExercise\EventImplementation\obj\Debug\netcoreapp2.1\EventImplementation.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ObjectCommunicationEventsExercise\EventImplementation\obj\Debug\netcoreapp2.1\EventImplementation.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ObjectCommunicationEventsExercise\EventImplementation\obj\Debug\netcoreapp2.1\EventImplementation.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ObjectCommunicationEventsExercise\EventImplementation\obj\Debug\netcoreapp2.1\EventImplementation.dll
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ObjectCommunicationEventsExercise\EventImplementation\obj\Debug\netcoreapp2.1\EventImplementation.pdb
+C:\Users\Yusmen\Desktop\C#\OOP Advanced\Zadachi_Resheniq\ObjectCommunicationEventsExercise\EventImplementation\obj\Debug\netcoreapp2.1\EventImplementation.genruntimeconfig.cache
